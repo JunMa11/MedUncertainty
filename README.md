@@ -17,6 +17,7 @@ Uncertainty in Medical Image Analysis
 |---|---|---|-------|---|
 |20190618|Classification|[Florin C. Ghesu1](https://scholar.google.ca/citations?hl=en&user=Z1-KZ8RoM6YC&view_op=list_works&sortby=pubdate)|Quantifying and Leveraging Classiﬁcation Uncertainty for Chest Radiograph Assessment [(arxiv)](https://arxiv.org/pdf/1906.07775.pdf) |MICCAI 2019|
 |20190607|Seg.|Christian F. Baumgartner|PHiSeg: Capturing Uncertainty in Medical Image Segmentation [(arxiv)](https://arxiv.org/abs/1906.04045) [(code)](https://github.com/baumgach/PHiSeg-code)|MICCAI 2019|
+|20190605|Seg.|Roger D. Soberanis-Mukul|An Uncertainty-Driven GCN Reﬁnement Strategy for Organ Segmentation [(arxiv)](https://arxiv.org/pdf/1906.02191.pdf)|-|
 |20190529|Seg.|Philipp Seeböck|Exploiting Epistemic Uncertainty of Anatomy Segmentation for Anomaly Detection in Retinal OCT [(arxiv)](https://arxiv.org/abs/1905.12806)| TMI|
 |201905|Seg.|[Rohit Jena](https://scholar.google.ca/citations?user=kZQQFE4AAAAJ&hl=en&oi=sra)|A Bayesian Neural Net to Segment Images with Uncertainty Estimates and Good Calibration|[IPMI 2019](https://link.springer.com/chapter/10.1007/978-3-030-20351-1_1)|
 |201905|Seg.|Suyash P. Awate|Estimating Uncertainty in MRF-based Image Segmentation: A Perfect-MCMC Approach|[Medical Image Analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841518307382?dgcid=raven_sd_aip_email)|
