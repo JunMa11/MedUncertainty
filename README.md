@@ -16,6 +16,7 @@ Uncertainty in Medical Image Analysis
 ## Uncertainty in Medical Image Analysis
 |DATE|Task|First Author|Title|Publication|
 |---|---|---|-------|---|
+|20190728|Seg.|Yongchan Kwon|Uncertainty quantification using Bayesian neural networks in classification: Application to biomedical image segmentation|[Computational Statistics & Data Analysis](https://www.sciencedirect.com/science/article/pii/S016794731930163X)|
 |20190618|Classification|[Florin C. Ghesu1](https://scholar.google.ca/citations?hl=en&user=Z1-KZ8RoM6YC&view_op=list_works&sortby=pubdate)|Quantifying and Leveraging Classiﬁcation Uncertainty for Chest Radiograph Assessment [(arxiv)](https://arxiv.org/pdf/1906.07775.pdf) |MICCAI 2019|
 |20190607|Seg.|Christian F. Baumgartner|PHiSeg: Capturing Uncertainty in Medical Image Segmentation [(arxiv)](https://arxiv.org/abs/1906.04045) [(code)](https://github.com/baumgach/PHiSeg-code)|MICCAI 2019|
 |20190605|Seg.|Roger D. Soberanis-Mukul|An Uncertainty-Driven GCN Reﬁnement Strategy for Organ Segmentation [(arxiv)](https://arxiv.org/pdf/1906.02191.pdf)|-|
