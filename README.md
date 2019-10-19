@@ -4,6 +4,7 @@ Uncertainty in Medical Image Analysis
 ## Uncertainty Estimation Methods
 |DATE|First Author|Title|Publication|
 |---|---|------------|---|
+|20191001|Charles Corbière|Addressing Failure Prediction by Learning Model Confidence [(arxiv)](https://arxiv.org/pdf/1910.04851.pdf) [(pytorch)](https://github.com/valeoai/ConfidNet)|[NeurlPS 2019](https://nips.cc/Conferences/2019/AcceptedPapersInitial)|
 |20190821|[Janis Postels](https://scholar.google.com/citations?user=_z8NnVsAAAAJ&hl=en&oi=ao)|Sampling-free Epistemic Uncertainty Estimation Using Approximated Variance Propagation [(arxiv)](https://arxiv.org/pdf/1908.00598.pdf) [(keras)](https://github.com/janisgp/Sampling-free-Epistemic-Uncertainty)|ICCV 2019|
 |201906|Fredrik K. Gustafsson|Evaluating Scalable Bayesian Deep Learning Methods for Robust Computer Vision [(arxiv)](https://arxiv.org/abs/1906.01620) [(project)](http://www.fregu856.com/publication/evaluating_bdl/)|TBD|
 |20190606|[Yaniv Ovadia](https://scholar.google.com/citations?hl=en&user=POp8_IsAAAAJ&view_op=list_works&sortby=pubdate)|Can You Trust Your Model's Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift [(arxiv)](https://arxiv.org/abs/1906.02530)|[NeurlPS 2019](https://nips.cc/Conferences/2019/AcceptedPapersInitial)|
