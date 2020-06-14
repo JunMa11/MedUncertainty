@@ -4,6 +4,7 @@ Uncertainty in Medical Image Analysis
 ## Uncertainty Estimation Methods
 |DATE|First Author|Title|Publication|
 |---|---|------------|---|
+|20200610|[Miguel Monteiro](https://scholar.google.com/citations?user=LyabfXcAAAAJ&hl=en)|Stochastic Segmentation Networks: Modelling Spatially Correlated Aleatoric Uncertainty [(arxiv)](https://arxiv.org/abs/2006.06015)|TBA|
 |20191001|Charles Corbière|Addressing Failure Prediction by Learning Model Confidence [(arxiv)](https://arxiv.org/pdf/1910.04851.pdf) [(pytorch)](https://github.com/valeoai/ConfidNet)|[NeurlPS 2019](https://nips.cc/Conferences/2019/AcceptedPapersInitial)|
 |20190821|[Janis Postels](https://scholar.google.com/citations?user=_z8NnVsAAAAJ&hl=en&oi=ao)|Sampling-free Epistemic Uncertainty Estimation Using Approximated Variance Propagation [(arxiv)](https://arxiv.org/pdf/1908.00598.pdf) [(keras)](https://github.com/janisgp/Sampling-free-Epistemic-Uncertainty)|ICCV 2019|
 |20190725|Zach Eaton-Rosen|As easy as 1, 2... 4? Uncertainty in counting tasks for medical imaging [(arxiv)](https://arxiv.org/abs/1907.11555)|MICCAI 2019|
