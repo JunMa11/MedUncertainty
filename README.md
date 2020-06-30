@@ -4,6 +4,7 @@ Uncertainty in Medical Image Analysis
 ## Uncertainty Estimation Methods
 |DATE|First Author|Title|Publication|
 |---|---|------------|---|
+|20200624|Florian Wenzel|Hyperparameter Ensembles for Robustness and Uncertainty Quantification [(arxiv)](https://arxiv.org/abs/2006.13570)|TBA|
 |20200610|[Miguel Monteiro](https://scholar.google.com/citations?user=LyabfXcAAAAJ&hl=en)|Stochastic Segmentation Networks: Modelling Spatially Correlated Aleatoric Uncertainty [(arxiv)](https://arxiv.org/abs/2006.06015) [(pytorch)](https://github.com/biomedia-mira/stochastic_segmentation_networks)|TBA|
 |20191001|Charles Corbière|Addressing Failure Prediction by Learning Model Confidence [(arxiv)](https://arxiv.org/pdf/1910.04851.pdf) [(pytorch)](https://github.com/valeoai/ConfidNet)|[NeurlPS 2019](https://nips.cc/Conferences/2019/AcceptedPapersInitial)|
 |20190821|[Janis Postels](https://scholar.google.com/citations?user=_z8NnVsAAAAJ&hl=en&oi=ao)|Sampling-free Epistemic Uncertainty Estimation Using Approximated Variance Propagation [(arxiv)](https://arxiv.org/pdf/1908.00598.pdf) [(keras)](https://github.com/janisgp/Sampling-free-Epistemic-Uncertainty)|ICCV 2019|
@@ -23,6 +24,7 @@ Uncertainty in Medical Image Analysis
 ## Uncertainty in Medical Image Analysis
 |DATE|First Author|Title|Publication|
 |---|---|-------|---|
+|20200627|Yingda Xia|Uncertainty-aware multi-view co-training for semi-supervised medical image segmentation and domain adaptation|[MedIA](https://www.sciencedirect.com/science/article/pii/S1361841520301304)|
 |201909|[Yuta Hiasa](https://scholar.google.com/citations?hl=en&user=_NrX-gUAAAAJ&view_op=list_works&sortby=pubdate)|Automated Muscle Segmentation from Clinical CT using Bayesian U-Net for Personalized Musculoskeletal Modeling|[TMI](https://ieeexplore.ieee.org/document/8830493)|
 |20190728|[Yongchan Kwon](https://scholar.google.com/citations?hl=en&user=PElI4ikAAAAJ&view_op=list_works&sortby=pubdate)|Uncertainty quantification using Bayesian neural networks in classification: Application to biomedical image segmentation|[Computational Statistics & Data Analysis](https://www.sciencedirect.com/science/article/pii/S016794731930163X)|
 |20190715|Davood Karimi|Accurate and robust deep learning-based segmentation of the prostate clinical target volume in ultrasound images|[Medical Image Analysis](https://www.sciencedirect.com/science/article/pii/S1361841519300623)|
